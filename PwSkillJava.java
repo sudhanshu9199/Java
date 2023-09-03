@@ -26,7 +26,7 @@
 
                        /* Lecture-2 */
 
-// import java.util.Scanner;   
+// import java.util.Scanner;   // or import java.util.*;
 
 // public class PwSkillJava{
 //     public static void main(String[] args) {
